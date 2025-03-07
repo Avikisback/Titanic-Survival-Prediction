@@ -31,8 +31,8 @@ The project applies multiple machine learning models to predict survival:
 The model is trained using **feature engineering and hyperparameter tuning** to improve accuracy. 
 
 **Code Structure**:
-1) model(titanic-survival-prediction).ipynb - Jupyter notebook containing Titanic survival prediction model implementation.
-2) Titanic-Dataset.csv - Dataset file used for training and testing the model.
+1) model(titanic-survival-prediction) (1).ipynb - Jupyter notebook containing Titanic survival prediction model implementation.
+2) Titanic-Dataset (1).csv - Dataset file used for training and testing the model.
 
 **Next Steps**:
 1) Improve accuracy using feature engineering and advanced ML models.
